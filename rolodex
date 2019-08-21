@@ -1,0 +1,3 @@
+rolodex={'name': 'John Doe', 'phone': {'mobile': '333555666', 'landline': '06333666'}, 'e-mail': 'info@zzzz.zz'}
+for key in rolodex:
+  print(key,rolodex[key])
